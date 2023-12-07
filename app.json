@@ -46,7 +46,7 @@
         "CHATBOT": {
             "description": "AI chatbot",
             "required": true,
-            "value":"off"
+            "value":"on"
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":""
+            "value":"07038308662"
         },
         "BLOCK_CHAT": {
             "description": "Block bot in specific groups, enter jids here sepereated with commas",
@@ -104,7 +104,7 @@
             "value":"_Bot is alive since {uptime}_"
         },
        "SESSION": {
-            "description": "Your session code, obtained by scanning QR",
+            "description": "Raganork~dec8729e2cc186b00ca6471172176d15:467667564b4f42715632593d",
             "required": true         
         }
     },
